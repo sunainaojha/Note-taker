@@ -60,8 +60,9 @@ As a small business owner, I want to be able to write and save notes so that I c
 
 
   ## Links
-[GitHub](https://github.com/sunainaojha/Note-taker)\
-[URL of Functional, deployed Application]()
+[GitHub](https://github.com/sunainaojha/Note-taker)
+
+[URL of Functional, deployed Application](https://pacific-coast-28426-1e5aac2b92fb.herokuapp.com/)
 
 ## Credits 
 Suanina Ojha.
